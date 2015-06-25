@@ -1,0 +1,9 @@
+D:\EasternCalendar\EasternCalendar\bin\Release\EasternCalendar.exe.config
+D:\EasternCalendar\EasternCalendar\bin\Release\EasternCalendar.exe
+D:\EasternCalendar\EasternCalendar\bin\Release\EasternCalendar.pdb
+D:\EasternCalendar\EasternCalendar\obj\Release\EasternCalendar.csprojResolveAssemblyReference.cache
+D:\EasternCalendar\EasternCalendar\obj\Release\EasternCalendar.Form1.resources
+D:\EasternCalendar\EasternCalendar\obj\Release\EasternCalendar.Properties.Resources.resources
+D:\EasternCalendar\EasternCalendar\obj\Release\EasternCalendar.csproj.GenerateResource.Cache
+D:\EasternCalendar\EasternCalendar\obj\Release\EasternCalendar.exe
+D:\EasternCalendar\EasternCalendar\obj\Release\EasternCalendar.pdb
